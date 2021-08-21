@@ -1,6 +1,6 @@
 # vstazherstve_mobile
 
-Vstaz mobile application  \n
+Vstaz mobile application  
 
 To compile ->
 
