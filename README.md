@@ -1,6 +1,7 @@
 # vstazherstve_mobile
 
-Vstaz mobile application 
+Vstaz mobile application  \n
+
 To compile ->
 
 Vscode Flutter extension 
